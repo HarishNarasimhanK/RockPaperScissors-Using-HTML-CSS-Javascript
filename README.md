@@ -63,7 +63,3 @@ You can customize the project by editing the following files:
 - Inspired by the classic Rock-Paper-Scissors game.
 - Visuals designed for an engaging user experience.
 
----
-
-Feel free to modify and enhance this project to suit your needs!
-
