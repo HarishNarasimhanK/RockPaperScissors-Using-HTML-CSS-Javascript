@@ -8,7 +8,7 @@ This project is a **Rock-Paper-Scissors** game built using HTML, CSS, and JavaSc
 - The computer randomly selects its choice.
 - The game displays the player's and computer's choices.
 - Scores are tracked and displayed in real-time.
-- A clear indication of the winner is shown after each round.
+- A clear indication of the winner is shown after getting a score of 10.
 - A "New Game" button resets the game.
 - Simple and visually appealing interface.
 
